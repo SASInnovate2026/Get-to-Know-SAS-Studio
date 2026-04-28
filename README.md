@@ -1,5 +1,5 @@
 # Get-to-Know-SAS-Studio
-Files Overview
+## Files Overview
 
 -Demo Instructions and Presentation Slides
 
