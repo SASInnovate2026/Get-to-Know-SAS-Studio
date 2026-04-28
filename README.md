@@ -14,8 +14,6 @@ Files Used in the Demo(s)
 * Sales.xlsx
 
 ## Presenter Contact Information
-Kristin Snyder
-
 Kristin.Snyder@sas.com
 
 ## Important Information
